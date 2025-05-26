@@ -1,6 +1,4 @@
-# multi_modular_clean_architecture
-
-A new Flutter project.
+# Flutter Multi Modular Clean Architecture
 
 ## Getting Started
 
